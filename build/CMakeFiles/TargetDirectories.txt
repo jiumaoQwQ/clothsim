@@ -1,0 +1,16 @@
+C:/Users/jiumao/Documents/data/project/cpp/cloth/build/CMakeFiles/main.dir
+C:/Users/jiumao/Documents/data/project/cpp/cloth/build/CMakeFiles/INSTALL.dir
+C:/Users/jiumao/Documents/data/project/cpp/cloth/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/jiumao/Documents/data/project/cpp/cloth/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/jiumao/Documents/data/project/cpp/cloth/build/external/CMakeFiles/INSTALL.dir
+C:/Users/jiumao/Documents/data/project/cpp/cloth/build/external/glad/CMakeFiles/glad.dir
+C:/Users/jiumao/Documents/data/project/cpp/cloth/build/external/glad/CMakeFiles/INSTALL.dir
+C:/Users/jiumao/Documents/data/project/cpp/cloth/build/external/glfw/CMakeFiles/uninstall.dir
+C:/Users/jiumao/Documents/data/project/cpp/cloth/build/external/glfw/CMakeFiles/INSTALL.dir
+C:/Users/jiumao/Documents/data/project/cpp/cloth/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/jiumao/Documents/data/project/cpp/cloth/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/jiumao/Documents/data/project/cpp/cloth/build/external/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/jiumao/Documents/data/project/cpp/cloth/build/external/glfw/src/CMakeFiles/INSTALL.dir
+C:/Users/jiumao/Documents/data/project/cpp/cloth/build/external/glm/CMakeFiles/INSTALL.dir
+C:/Users/jiumao/Documents/data/project/cpp/cloth/build/external/glm/CMakeFiles/ALL_BUILD.dir
+C:/Users/jiumao/Documents/data/project/cpp/cloth/build/external/glm/glm/CMakeFiles/INSTALL.dir

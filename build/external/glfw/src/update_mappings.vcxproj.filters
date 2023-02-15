@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jiumao\Documents\data\project\cpp\cloth\build\CMakeFiles\76aa453c24f5e376a7572e225b5b6f9d\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jiumao\Documents\data\project\cpp\cloth\external\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\jiumao\Documents\data\project\cpp\cloth\external\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\jiumao\Documents\data\project\cpp\cloth\external\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\jiumao\Documents\data\project\cpp\cloth\build\external\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C14BA23A-AF20-3205-906C-23C155F3F735}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3FEDD083-8211-3A40-9702-E7C5A9FBA847}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
